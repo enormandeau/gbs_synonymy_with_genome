@@ -1,11 +1,18 @@
 # GBS synonymy with genome
 
-# TODO
+Extract synonymy information of SNPs after STACKS
 
-- Fill README.md
-- Run on new dataset and polish
+## Description
 
-# License
+You can use the output of STACKS **WITH** or **WITHOUT** a reference genome to
+assess whether the SNPs present in gene sequences represent synonymous or
+non-synonymous changes.
+
+## Usage
+
+Use the scripts in the appropriate folder depending on the use of a genome.
+
+## License
 
 CC share-alike
 

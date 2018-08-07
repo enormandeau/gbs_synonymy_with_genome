@@ -1,4 +1,5 @@
 #!/bin/bash
+# Blast flanking sequences against swissprot or another protein database
 
 # Global variables
 INPUT_FASTA=$1
